@@ -1,1 +1,15 @@
+# From original project
 midieditor.pro.user
+
+# Mac Files
+.DS_Store
+
+# Vim
+.*.sw[0-9a-zA-Z]
+.sw[0-9a-zA-Z]
+
+# Other temp files
+*~
+
+#Visual Studio
+.vs/
